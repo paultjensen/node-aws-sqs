@@ -1,2 +1,2 @@
-# node-aws-kinesis
-Examples of how to interact with AWS Kinesis using NodeJS and AWS SDK.
+# node-aws-sqs
+Examples of how to produce and consume messages with AWS SQS using NodeJS and AWS SDK.
